@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"PMOD1";"pmod_pin_array_6x2";1;"PMOD-Device-x2-Type-1A-GPIO";;;
+2;"D2,D3,D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"LED";;;
+3;"R2,R3,R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";3;"47";;;
+4;"PinHeader1,PinHeader2,PinHeader3";"PinHeader_1x01_P2.54mm_Vertical";3;"Pin Header";;;
+5;"Coax1,Coax2,Coax3";"SMB_Jack_Vertical";3;"SMB Connector";;;
+6;"TP6";"PinHeader_1x03_P2.54mm_Vertical";1;"GND";;;
